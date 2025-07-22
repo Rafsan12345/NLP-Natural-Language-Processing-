@@ -1,0 +1,13 @@
+sentence,sentiment
+"I love this product!",positive
+"This is the worst experience ever.",negative
+"It's okay, not too bad.",neutral
+"I'm very happy with the service.",positive
+"The food was terrible.",negative
+"Nothing special, just average.",neutral
+"Absolutely fantastic!",positive
+"I will never buy this again.",negative
+"Meh, it was fine.",neutral
+"Great job by the team!",positive
+"The support team was rude.",negative
+"The performance is decent.",neutral
